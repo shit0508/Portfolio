@@ -424,7 +424,7 @@ body{
     border-radius: 12px;
     position: relative;
     bottom: -120px;
-    box-shadow: 0px px 5px 0px rgba(153, 153, 153, 0.3);
+    /*box-shadow: 0px px 5px 0px rgba(153, 153, 153, 0.3);*/
    }
   .banner_area .banner_inner {
     position: relative;
@@ -1038,7 +1038,7 @@ body{
   position: relative; }
   .reservation_form_area .res_form_inner:before {
     content: "";
-    background: url(../img/contact-shap-1.png);
+    /*background: url(../img/contact-shap-1.png);*/
     position: absolute;
     left: -125px;
     height: 421px;
@@ -1047,7 +1047,7 @@ body{
     transform: translateY(-50%); }
   .reservation_form_area .res_form_inner:after {
     content: "";
-    background: url(../img/contact-shap-2.png);
+    /*background: url(../img/contact-shap-2.png);*/
     position: absolute;
     right: -125px;
     height: 421px;
@@ -1131,7 +1131,7 @@ body{
   .contact_info .info_item h6 {
     font-size: 16px;
     line-height: 24px;
-    color: "Roboto", sans-serif;
+    /*color: "Roboto", sans-serif;*/
     font-weight: bold;
     margin-bottom: 0px;
     color: #222222; }
@@ -1229,8 +1229,8 @@ body{
   .sample-text-area p {
     color:#a4a4a4;
     font-size:21px;
-    font-weight:700px;
-    font-family: Roboto Condensed', 'Lucida Sans Typewriter';
+    /*font-weight:700px;*/
+    /*font-family: Roboto Condensed', 'Lucida Sans Typewriter';*/
     line-height: 27px; }
     .sample-text-area p b {
       font-weight: bold;
@@ -1536,7 +1536,7 @@ h6 {
   border-radius: 20px; }
 
 .genric-btn.arrow {
-  display: -webkit-inline-box;
+  /*display: -webkit-inline-box;*/
   display: -ms-inline-flexbox;
   display: inline-flex;
   -webkit-box-align: center;
@@ -1687,7 +1687,7 @@ h6 {
   border: 1px solid transparent; }
 
 .genric-btn.disable {
-  color: #222222, 0.3;
+  /*color: #222222, 0.3;*/
   background: #f9f9ff;
   border: 1px solid transparent;
   cursor: not-allowed; }
@@ -2617,7 +2617,7 @@ h6 {
     }
 
     .tools_expert .skill_main .skill_item h4 {
-      text-align: none;
+      /*text-align: none;*/
       font-size: 16px;
       font-family: "Outfit", sans-serif;
       font-weight: 500;
